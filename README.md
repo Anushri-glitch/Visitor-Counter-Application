@@ -1,5 +1,5 @@
 # Visitor-Counter-Application
-##### Its a Web Application
+##### :purple_square: Its a Web Application
 ## 1. Frameworks and Languages Used -
     1. SpringBoot
     2. JAVA
