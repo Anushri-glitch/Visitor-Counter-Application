@@ -24,10 +24,7 @@
 :white_check_mark: https://github.com/Anushri-glitch/Visitor-Counter-Application/tree/master/src/main/java/com/example/visitorCounter/controller
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## :three: DataStructures Used in Project
-    1. JSONARRAY
-    2. JSONOBJECT
-    3. ARRAYLIST
-    4. ResponseEntity
+    1. HashMap
 -------------------------------------------------------------------------------------------------------------------------------------------------------
 ## :four: Project Summary
 ### :o: Project result 
